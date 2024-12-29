@@ -3,7 +3,7 @@ import * as d3 from 'd3';  // npm install d3 or yarn add d3
 import f3 from 'family-chart';  // npm install family-chart@0.2.1 or yarn add family-chart@0.2.1
 import 'family-chart/styles/family-chart.css';
 
-fetch('https://github.com/F5Prince/Mahato-family-chart-static/blob/main/corrected-wikidata-popular.json')
+fetch('Family DATA.json')
   .then(res => res.json())
   .then(data => create(data))
   .catch(err => console.error(err))
