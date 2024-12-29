@@ -2,12 +2,12 @@
     {
         "id": "Q508525",
         "data": {
-            "fn": "Mary",
-            "ln": "Soames",
+            "fn": "Prashant",
+            "ln": "Mahato",
             "desc": "British aristocrat, daughter of Winston Churchill and his wife Clementine (1922–2014)",
-            "label": "Mary Soames",
-            "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
-            "gender": "F"
+            "label": "Prashant Mahato",
+            "avatar": "https://github.com/F5Prince/Mahato-family-chart-static/blob/main/Images/Prashant.jpg",
+            "gender": "M"
         },
         "rels": {
             "father": "Q8016",
